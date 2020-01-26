@@ -1,2 +1,0 @@
-# HelloBruce
-Created with CodeSandbox
